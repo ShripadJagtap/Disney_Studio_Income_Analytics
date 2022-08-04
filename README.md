@@ -1,4 +1,4 @@
-# Disney Studio Income Analytics
+# Disney Studio Income Analytics(Task 3)
 Exploratory data analysis and regression models to predict box office revenue prediction on Disney movies produced since the debut film Snow White and Seven Dwarf in 1937.
 
 The Walt Disney Studios is an American film and entertainment studio, and is the Studios Content segment of the Walt Disney Company.The studio has produced more than 600 films, beginning with Snow White and the Seven Dwarfs in 1937, one of the first full-length animated feature films, and the first produced in the United States. Most of them turned into a great success in the box office while some of them did not. In this notebook, I will analyze the impact of some all movies till 2016 according to it's box office success.
