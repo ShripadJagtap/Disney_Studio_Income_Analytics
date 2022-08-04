@@ -5,7 +5,7 @@ Disney is one of those movie companies that has left a huge impact on many peopl
 
 The Walt Disney Studios has produced more than 600 great films in so many genres since the debut film Snow White and Seven Dwarf in 1937. Most of them turned into a great success in the box office while some of them did not. In this notebook, I will analyze the impact of some features in the box office success.
 
-![Disney Movies](./Disney_Studio_Income_Analytics\disney.png)
+<img src="https://github.com/ShripadJagtap/Disney_Studio_Income_Analytics/blob/main/disney.png?raw=true">
 
 # DATA
 The dataset include all movies produced until 2016.
